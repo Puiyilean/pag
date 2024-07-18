@@ -337,7 +337,7 @@ div1{float: left;
     justify-content: center;
    justify-items: center;
     
-    margin: 150px;
+    margin: 50px;
     padding: 10px;
 
 
@@ -384,9 +384,8 @@ margin: 5px;
     align-content: center;
     align-items: center;
     justify-content: center;
-padding: 1px;
-    margin-left: 300px;
-   
+
+    margin: 100px;
 }
 .cartas
 {
@@ -401,7 +400,7 @@ body{
     align-items: center;
     justify-content: center;
 }
-.areas img{box-shadow: 0 15px 20px #000;
+img .container{box-shadow: 0 15px 20px #000;
     border-radius: 15px;
     
 }
